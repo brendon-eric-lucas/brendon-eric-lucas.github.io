@@ -1,0 +1,89 @@
+.navbar {
+    margin: 5px;
+    padding: 10px;
+    background: #b4cfb0;
+}
+
+.guitar {
+    -webkit-transform:rotate(-90deg);
+    -moz-transform: rotate(-90);
+    -ms-transform: rotate(-90);
+    -o-transform: rotate(-90);
+    transform: rotate(-90);
+    position: relative;
+    max-width: 35%;
+    max-height: 35%;
+    margin-left: 0px;
+    margin-top: 100px;
+}
+
+.apple {
+    top: 200px;
+    max-width: 25%;
+    max-height: 25%;
+    margin-left: 40px;
+
+}
+
+.cat {
+    top: 200px;
+    max-width: 25%;
+    max-height: 25%;
+    margin-left: 100px;
+}
+
+.link1 {
+    margin-left: 150px;
+}
+
+.link3 {
+    margin-right: 150px;
+}
+
+.portrait {
+    border: 5px solid #b4cfb0;
+    padding: 0;
+    margin-right: 5px;
+}
+
+.content{
+    margin-left: 10px;
+    padding: 0;
+}
+
+.float {
+    float: left;
+}
+
+#about-brendon {
+    margin-left: 5px;
+}
+
+hr {
+    border-width: 5px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+h6 {
+    text-align: center;
+}
