@@ -50,6 +50,7 @@ hr {
 
 h1 {
     margin-bottom: 20px;
+    color: #FFFCE8;
 }
 
 .column {
@@ -70,9 +71,14 @@ ul {
 
 h6 {
     text-align: center;
+    color: #FFFCE8;
 }
 
 #milkyway {
     border-radius: .6125%;
     background-color: #36454F;
+}
+
+p {
+    color: #FFFCE8;
 }
