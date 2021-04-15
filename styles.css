@@ -66,3 +66,7 @@ ul {
 h6 {
     text-align: center;
 }
+
+img {
+    border-radius: 5%;
+}
