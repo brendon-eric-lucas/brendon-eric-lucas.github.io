@@ -86,26 +86,3 @@ p {
 .readable {
     color: #FFFCE8;
 }
-
-/* css for slideshow on index / home page*/
-/* yanked from https://www.w3schools.com/howto/howto_js_slideshow.asp */
-* {box-sizing:border-box}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
