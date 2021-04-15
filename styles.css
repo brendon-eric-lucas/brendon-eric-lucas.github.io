@@ -17,9 +17,10 @@
 }
 
 .portrait {
-    border: 5px solid #b4cfb0;
+    border: 5px solid black;
     padding: 0;
     margin-right: 5px;
+    border-radius: .6125%;
 }
 
 .content{
